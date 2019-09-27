@@ -1,0 +1,46 @@
+ h1 {
+     font-size: 5rem;
+     padding: 4% 0 2%; 
+     font-weight: normal;
+ }
+
+ p {
+     font-size: 1.2rem;
+     padding-top: 3%;
+ }
+
+.scoreStyle {
+     font-size: 3rem;
+     padding: 0 0.7rem;
+ }
+
+ .heading {
+    text-align: center;
+}
+
+ .container-fluid {
+     background-color: #51dacf;
+     padding: 2%;
+ }
+
+.answers {
+    padding: 0.4rem 2%;
+    color: rgb(76, 69, 69);
+    font-size: 0.9rem;
+}
+
+.submit {
+    padding-top: 2%;
+}
+
+.hidden {
+    display: none;
+}
+
+.score {
+    background-color: antiquewhite;
+}
+
+.score p {
+    margin-bottom: 0 !important;
+}
